@@ -5,4 +5,8 @@ package com.xfz.netty.test1;
  * @date : ${DATA}
  */
 public class Test {
+    public void test(){
+        System.out.println("123");
+        System.out.println("456");
+    }
 }
